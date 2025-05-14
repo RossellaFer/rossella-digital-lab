@@ -1,2 +1,5 @@
-# rossella-digital-lab
-Demo store for Shopify development study
+# Rossella Digital Lab
+
+Demo store for Shopify development study.
+
+Starting theme: Dawn
